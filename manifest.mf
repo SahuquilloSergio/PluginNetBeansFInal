@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
-OpenIDE-Module: com.samuel.git
-OpenIDE-Module-Localizing-Bundle: com/samuel/git/Bundle.properties
+OpenIDE-Module: com.sahuquillo.modulogh
+OpenIDE-Module-Localizing-Bundle: com/sahuquillo/modulogh/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0
 
